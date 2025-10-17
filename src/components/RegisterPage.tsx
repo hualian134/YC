@@ -178,7 +178,7 @@ export default function RegisterPage({ onSuccess, onSwitchToLogin }: RegisterPag
                 <input
                   key={index}
                   id={`code-${index}`}
-                  type="text"
+                  type='tel'
                   maxLength={1}
                   value={digit}
                   onChange={(e) => handleCodeChange(index, e.target.value)}
