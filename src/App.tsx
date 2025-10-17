@@ -122,7 +122,7 @@ function App() {
               {/* <div className="text-3xl">🌾</div> */}
               <div className="text-6xl mb-4" style={{ display: 'flex', alignItems: 'center', height: '5vh' }}>
 
-                        <img src='src/images/logo.png' alt="yaung chi"style={{ width: '45px', height: '45px', }}/>
+                        <img src='https://ptkubzirhhyzsjhbfloe.supabase.co/storage/v1/object/public/chat-images/logo.png' alt="yaung chi"style={{ width: '45px', height: '45px', }}/>
                         
               {/* </div>
               <div> */}

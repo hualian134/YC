@@ -37,7 +37,7 @@ export default function LoginPage({ onSuccess, onSwitchToRegister }: LoginPagePr
                 <div className="text-center mb-8">
                     {/* <div className="text-6xl mb-4">🌾</div> */}
                     <div className="text-6xl mb-4" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '15vh' }}>
-                        <img src='src/images/logo.png' alt="yaung chi"
+                        <img src='https://ptkubzirhhyzsjhbfloe.supabase.co/storage/v1/object/public/chat-images/logo.png' alt="yaung chi"
                         style={{ width: '200px', height: '150px', }}/>
                     </div>
                     <h1 className="text-3xl font-bold mb-2">Yaung Chi</h1>
