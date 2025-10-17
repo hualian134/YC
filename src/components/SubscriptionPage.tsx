@@ -43,7 +43,8 @@ export default function SubscriptionPage() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-green-50 to-green-100 py-12 px-4">
+    //<div className="min-h-screen bg-gradient-to-br from-green-50 to-green-100 py-12 px-4 overflow-y-auto">
+    <div className="h-full bg-gradient-to-br from-green-50 to-green-100 py-12 px-4 overflow-y-auto">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-12">
           <h1 className="text-4xl font-bold text-gray-900 mb-4">
